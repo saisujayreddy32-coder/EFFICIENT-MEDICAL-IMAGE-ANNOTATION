@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/inbox/*
+data/annotations/*
+models/*.pt
+outputs/*
